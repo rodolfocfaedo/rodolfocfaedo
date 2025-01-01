@@ -2,7 +2,7 @@
 
 **I'm a passionate developer and tech enthusiast!**
 
-##About Me
+## About Me
 
 - 🌱 I’m currently learning Java Web
 - 📫 How to reach me: faedorodolfo.programming@gmail.com

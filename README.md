@@ -4,13 +4,11 @@
 
 ##About Me
 
-- 🌱 I’m currently learning **[Technology/Skill]**
-
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **faedorodolfo.programming@gmail.com
+- 🌱 I’m currently learning Java Web
+- 📫 How to reach me: faedorodolfo.programming@gmail.com
 
 
-## 🚀 Developing Skills
+## 🚀 Skills (learning yet)
 - **Languages:** Java
 - **Frameworks:** Springboot
 

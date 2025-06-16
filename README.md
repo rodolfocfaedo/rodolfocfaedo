@@ -4,13 +4,17 @@
 
 ## About Me
 
-- 🌱 I’m currently learning Java Web
+- Java Backend Developer 
 - 📫 How to reach me: faedorodolfo.programming@gmail.com
+- LinkedIn Profile: https://www.linkedin.com/in/rodolfo-cunhasque-faedo-96849a227/
 
 
-## 🚀 Skills (learning yet)
+## 🚀 Skills 
 - **Languages:** Java
-- **Frameworks:** Springboot
+- **Frameworks:** Spring Framework
+- **API Documentation:** API Documentation
+- **Database:** PostgreSQL, MongoDB
+- **Unit Testing:** Junit
 
 
 ## 📈 GitHub Stats

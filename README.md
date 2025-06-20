@@ -5,7 +5,7 @@
 ## About Me
 
 - Java Backend Developer 
-- 📫 How to reach me: faedorodolfo.programming@gmail.com
+- 📫 How to reach me: rodolfo.cunhasque@gmail.com
 - LinkedIn Profile: https://www.linkedin.com/in/rodolfo-cunhasque-faedo-96849a227/
 
 
